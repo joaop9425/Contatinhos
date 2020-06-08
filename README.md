@@ -1,6 +1,6 @@
-# contatinhos
+# Contatinhos
 
-A new Flutter project.
+App em Flutter para guardar seus Contatinhos. :)
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+```sh
+flutter pub get
+```
+
+Após, navegue até o caminho do projeto através do seu terminal, e abra o vscode a partir dali.
+Para rodar o projeto basta que você tenha instalado o Android Studio, criado um Emulador,
+ou conectado ao seu computador um dispositivo móvel.
