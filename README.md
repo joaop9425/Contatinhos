@@ -19,3 +19,10 @@ flutter pub get
 ```
 
 Seja feliz com seu novo app. :)
+
+### Grupo composto por
+
+- Euripedes Dias
+- Matheus de Souza
+- João Paulo Neves
+- Willian Gouveia
